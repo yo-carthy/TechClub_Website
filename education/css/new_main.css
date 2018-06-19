@@ -1,0 +1,53 @@
+.banner-area{
+	background: url(../img/banner-bg3.jpg); 
+
+}
+
+.banner-area .overlay-bg {
+    background-color: rgba(18,24,61,0.8);
+}
+
+.calendar-event p{
+	color: #bdbdbd;
+
+}
+
+
+
+h1{
+	font-family: 'Maven Pro', sans-serif;
+	text-transform: none ! important;
+
+}
+
+h1 .text-uppercase{
+	text-transform: none ! important;
+}
+
+.info-area{
+	margin-top: 150px;
+}
+
+.main-menu{
+	    border-bottom: 1px solid #ffffff;
+}
+
+.primary-btn {
+    background: #ecaf55;
+    color: #000;
+
+}
+
+.banner-content .primary-btn {
+    background-color: #ecaf55;
+    color: #000;
+
+ }
+
+
+
+ .title hover {
+    background-color: #ecaf55;
+}
+
+
